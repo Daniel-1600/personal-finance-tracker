@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Savings",
+    "amount": 159,
+    "target": 2000,
+    "color": "bg-teal-600"
+  },
+  {
+    "name": "Concert Ticket",
+    "amount": 110,
+    "target": 150,
+    "color": "bg-gray-700"
+  },
+  {
+    "name": "Gift",
+    "amount": 110,
+    "target": 150,
+    "color": "bg-cyan-400"
+  },
+  {
+    "name": "New Laptop",
+    "amount": 10,
+    "target": 1000,
+    "color": "bg-orange-200"
+  },
+  {
+    "name": "Holiday",
+    "amount": 531,
+    "target": 1440,
+    "color": "bg-purple-600"
+  },
+  {
+    "name": "Holiday",
+    "amount": 531,
+    "target": 1440,
+    "color": "bg-purple-600"
+  }
+]

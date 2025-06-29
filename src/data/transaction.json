@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Emma Richardson",
+    "date": "19 Aug 2024",
+    "amount": 75.5,
+    "image": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "name": "Savory Bites Bistro",
+    "date": "19 Aug 2024",
+    "amount": -55.5,
+    "icon": "🍞",
+    "bgColor": "bg-amber-700"
+  },
+  {
+    "name": "Daniel Carter",
+    "date": "18 Aug 2024",
+    "amount": -42.3,
+    "image": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "name": "Sun Park",
+    "date": "17 Aug 2024",
+    "amount": 120.0,
+    "image": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "name": "Urban Services Hub",
+    "date": "18 Aug 2024",
+    "amount": -65.0,
+    "icon": "🪙",
+    "bgColor": "bg-yellow-500"
+  },
+  {
+    "id": 1,
+    "name": "Emma Richardson",
+    "category": "General",
+    "date": "2024-08-19",
+    "amount": 75.5,
+    "type": "income",
+    "avatar": "/avatars/emma.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Savory Bites Bistro",
+    "category": "Dining Out",
+    "date": "2024-08-19",
+    "amount": -55.5,
+    "type": "expense",
+    "avatar": "/avatars/bistro.png"
+  },
+  {
+    "id": 3,
+    "name": "Daniel Carter",
+    "category": "General",
+    "date": "2024-08-18",
+    "amount": -42.3,
+    "type": "expense",
+    "avatar": "/avatars/daniel.jpg"
+  },
+  {
+    "name": "Emma Richardson",
+    "date": "19 Aug 2024",
+    "amount": 75.5,
+    "image": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "name": "Savory Bites Bistro",
+    "date": "19 Aug 2024",
+    "amount": -55.5,
+    "icon": "🍞",
+    "bgColor": "bg-amber-700"
+  },
+  {
+    "name": "Daniel Carter",
+    "date": "18 Aug 2024",
+    "amount": -42.3,
+    "image": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "name": "Sun Park",
+    "date": "17 Aug 2024",
+    "amount": 120.0,
+    "image": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "name": "Urban Services Hub",
+    "date": "18 Aug 2024",
+    "amount": -65.0,
+    "icon": "🪙",
+    "bgColor": "bg-yellow-500"
+  },
+  {
+    "id": 1,
+    "name": "Emma Richardson",
+    "category": "General",
+    "date": "2024-08-19",
+    "amount": 75.5,
+    "type": "income",
+    "avatar": "/avatars/emma.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Savory Bites Bistro",
+    "category": "Dining Out",
+    "date": "2024-08-19",
+    "amount": -55.5,
+    "type": "expense",
+    "avatar": "/avatars/bistro.png"
+  },
+  {
+    "id": 3,
+    "name": "Daniel Carter",
+    "category": "General",
+    "date": "2024-08-18",
+    "amount": -42.3,
+    "type": "expense",
+    "avatar": "/avatars/daniel.jpg"
+  }
+]
