@@ -4,6 +4,7 @@ import Dashboard from "./pages/dashboard";
 import Transactions from "./pages/transactions";
 import Addtransaction from "./pages/addtransaction";
 import Budgets from "./pages/budgets";
+import Home from "./pages/home";
 import Register from "./pages/register";
 
 function App() {
@@ -11,7 +12,9 @@ function App() {
     <BrowserRouter>
       <Routes>
         {/* auth pages  */}
+        <Route path="/home" element={<Home />} />
         <Route path="/register" element={<Register />} />
+
         {/* protected pages */}
         <Route path="/" element={<Dashboard />} />
         <Route path="/transactions" element={<Transactions />} />
