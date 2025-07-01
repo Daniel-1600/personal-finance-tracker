@@ -12,11 +12,11 @@ function App() {
     <BrowserRouter>
       <Routes>
         {/* auth pages  */}
-        <Route path="/home" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/register" element={<Register />} />
 
         {/* protected pages */}
-        <Route path="/" element={<Dashboard />} />
+        <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/transactions" element={<Transactions />} />
         <Route path="/addtransaction" element={<Addtransaction />} />
         <Route path="/budget" element={<Budgets />} />
